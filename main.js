@@ -15,7 +15,7 @@ menuLinks.forEach(e => {
 
 })
 
-console.log('asd')
+console.log('asfasfasf')
 
 const accordion = document.querySelector('.accordion')
 
